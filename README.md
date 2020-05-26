@@ -2,6 +2,8 @@
 
 授人以鱼不如授人以渔，我把思路分享出来。
 
+QQ空间地址https://i.qq.com/
+
 # 一、登录
 
 加载ChromeDriver驱动。[下载地址](http://chromedriver.storage.googleapis.com/index.html)
