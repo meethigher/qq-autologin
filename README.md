@@ -35,7 +35,7 @@ QQ空间地址https://i.qq.com/
 
 ## 3.1 感谢大佬
 
-[java/python + selenium 破解腾讯滑动验证码](java/python + selenium 破解腾讯滑动验证码)
+[java selenium破解腾讯滑动验证码](https://blog.csdn.net/qq_38534107/article/details/85005891)
 
 [java Selenium 滑块验证破解](https://blog.csdn.net/weixin_39660224/article/details/103163797)
 
